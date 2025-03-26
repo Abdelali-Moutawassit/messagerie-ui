@@ -44,7 +44,7 @@ Une application Flutter inspirée de l'interface Messenger, avec une barre de re
    ```
 
 ## 📸 Captures d'écran
-.....
+......
 
 ## 📝 Auteur
 Développé par **[ABDELALI MOUTAWASSIT]**.
